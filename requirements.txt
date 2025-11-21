@@ -1,0 +1,10 @@
+streamlit
+torch
+torchvision
+ultralytics
+pillow
+numpy
+opencv-python-headless==4.7.0.72
+matplotlib
+timm
+scipy
