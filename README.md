@@ -103,7 +103,7 @@ streamlit
 torch
 torchvision
 ultralytics
-opencv-python-headless==4.8.1.78
+opencv-python-headless==4.7.0.72
 pillow
 numpy==1.26.4
 matplotlib
